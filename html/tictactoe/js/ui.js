@@ -1,4 +1,4 @@
-var socket = io('http://localhost:3000');
+var socket = io('http://caro-luongleee.c9users.io:8080');
 var playerName = "Player";
 var playerType;
 
